@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div style="display: flex;width:100%;justify-content: space-between;"> 
+<img style="flex: 1;"  src="https://github-readme-stats.vercel.app/api?username=liujiayii&show_icons=true&hide=contribs" />
+<img style="flex: 1;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=liujiayii&layout=compact" />
+</div>
 <!--
 **liujiayii/liujiayii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
